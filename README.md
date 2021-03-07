@@ -1,5 +1,5 @@
 ### Hello, There!
 I am backend develeper who enjoy working on Python and some stuff like Flask, Django and Odoo. Also, have interest in data science and machine learning. 
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+- 🔭 I’m currently working as Odoo Developer at Bridge Technology Services (bts.id).
+- 🤝 I’m looking to collaborate on Python Projects, Data Science or Machine Learning and ERP Projects.
+- speech_balloon Ask me about Running Man, Movies, or What Ever
