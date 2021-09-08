@@ -1,6 +1,6 @@
 ### Hello, There!
 I am backend develeper who enjoy working on Python and some stuff like Flask, Django and Odoo. Also, have interest in data science and machine learning.
-- 🔭 I’m currently working as Developer
+- 🔭 I’m currently working as Python Developer.
 - 🤝 Open to collaborate on Python, Data Science or Machine Learning and ERP Projects.
 
 ### Work Stuff:
